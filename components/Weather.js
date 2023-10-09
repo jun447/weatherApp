@@ -7,7 +7,7 @@ import { Fontisto } from '@expo/vector-icons';
 import { Entypo } from '@expo/vector-icons';
 import { LinearGradient } from 'expo-linear-gradient';
 import { clear_day, clear_night, cloud_day, cloud_night, haze_day, haze_night, rain_day, rain_night, snow_day, snow_night } from "../assets/backgrounds/index";
-const API_KEY = "ba4e0a5d6194a847ecfffbcd279c8301"
+const API_KEY = "Your API Key"
 
 
 
